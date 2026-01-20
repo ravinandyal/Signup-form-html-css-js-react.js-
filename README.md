@@ -1,4 +1,4 @@
- Signup Form (React.js)
+     Signup Form (React.js)
 
 This is a React.js project built using functional components.
 
@@ -8,7 +8,7 @@ This is a React.js project built using functional components.
 - HTML
 - CSS
 
-   Features
+ Features
 - Signup form
 - Validation
 - Responsive UI
